@@ -6,6 +6,8 @@ My lecture notes for this class are divided by chapters on the book we use is th
 
 Here are my lecture notes for this class:
 
+# Algebra I
+
 -[Chapter 1: Precalculus Review (1/31-2/7 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-1-lecture-notes.pdf)
 
 -[Chapter 2: Limits (2/2-3/2 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-2-lecture-notes.pdf)
@@ -15,3 +17,9 @@ Here are my lecture notes for this class:
 -[Chapter 4: Applications of the Derivative (4/11-4/25 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-4-lecture-notes.pdf)
 
 -[Chapter 5 and 6.1: Integration (5/2-5/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-5-and-6.1-lecture-notes.pdf)
+
+# Geometry
+
+# Algebra II
+
+# 8th Grade Math
