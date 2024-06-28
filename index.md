@@ -6,7 +6,7 @@ My lecture notes for this class are divided by chapters on the book we use is th
 
 Here are my lecture notes for this class:
 
-# Algebra I
+### Algebra I
 
 -[Chapter 1: Precalculus Review (1/31-2/7 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-1-lecture-notes.pdf)
 
@@ -18,8 +18,8 @@ Here are my lecture notes for this class:
 
 -[Chapter 5 and 6.1: Integration (5/2-5/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-5-and-6.1-lecture-notes.pdf)
 
-# Geometry
+### Geometry
 
-# Algebra II
+### Algebra II
 
 # 8th Grade Math
