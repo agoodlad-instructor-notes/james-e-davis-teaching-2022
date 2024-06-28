@@ -8,15 +8,19 @@ Here are my lecture notes for this class:
 
 ### Algebra I
 
--[Chapter 1: Precalculus Review (1/31-2/7 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-1-lecture-notes.pdf)
+-[Algebra 1 Week 0 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-0-class-notes.pdf)
 
--[Chapter 2: Limits (2/2-3/2 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-2-lecture-notes.pdf)
+-[Algebra 1 Week 1 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-1-class-notes.pdf)
 
--[Chapter 3: Differentiation (3/2-4/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-3-lecture-notes.pdf)
+-[Algebra 1 Week 2 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-2-class-notes.pdf)
 
--[Chapter 4: Applications of the Derivative (4/11-4/25 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-4-lecture-notes.pdf)
+-[Algebra 1 Week 3 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-3-class-notes.pdf)
 
--[Chapter 5 and 6.1: Integration (5/2-5/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-5-and-6.1-lecture-notes.pdf)
+-[Algebra 1 Week 4 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-4-class-notes.pdf)
+
+-[Algebra 1 Week 5 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-5-class-notes.pdf)
+
+-[Algebra 1 Week 6 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-1-week-6-class-notes.pdf)
 
 ### Geometry
 
