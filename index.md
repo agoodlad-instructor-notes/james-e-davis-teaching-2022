@@ -22,4 +22,4 @@ Here are my lecture notes for this class:
 
 ### Algebra II
 
-# 8th Grade Math
+### 8th Grade Math
