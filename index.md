@@ -30,6 +30,8 @@ Here are my lecture notes during the time I taught at James E. Davis:
 
 -[Geometry Week 5 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-geometry-week-5-class-notes.pdf)
 
+-Week 6 NOTE: This week was spent preparing for finals as opposed to lecturing new material.
+
 ### Algebra II
 
 -[Algebra II Week 0 Class Notes ()](https://agoodlad-instructor-notes.github.io/james-e-davis-teaching-2022/2022-2023-james-e-davis-trimester-1-algebra-2-week-0-class-notes.pdf)
